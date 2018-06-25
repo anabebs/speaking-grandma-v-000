@@ -2,6 +2,9 @@
 
 def speak_to_grandma(phrase)
   phrase.uppercase?
+  puts phrase 
+  If
+    "I LOVE YOU GRANDMA!"
 end
 
 # Whatever you say to grandma, she should respond with
