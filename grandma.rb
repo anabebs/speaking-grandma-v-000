@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-def speak_to_grandma(phrase)
+def speak_to_grandma('Hi')
   phrase.uppercase?
   puts phrase 
   If
